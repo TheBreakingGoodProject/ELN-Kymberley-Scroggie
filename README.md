@@ -2,9 +2,11 @@
 
 Kymberley is a postdoctoral research assoicate at the University of Sydney, Sydney, Australia. She works within the [SCOPE](https://github.com/alintheopen/SCOPE) research group which is led by [Associate Professor Alice Motion](http://alicemotion.com/)
 
-## TABLE OF CONTENTS
+# TABLE OF CONTENTS
 
-### Project: Open Source Mycetoma
+## Project: Open Source Mycetoma
+
+### Series 1 - Fenarimols
 
 [Experiment #1: Synthesis of 1-(4-caynophenyl)piperazine](https://github.com/TheBreakingGoodProject/ELN-Kymberley-Scroggie/issues/1)
 
@@ -31,5 +33,7 @@ Kymberley is a postdoctoral research assoicate at the University of Sydney, Sydn
 [Experiment #12: Synthesis of 3-(4-((4-chloro-2-fluorophenyl)(pyridin-3-yl)methyl)piperazin-1-yl)benzonitrile](https://github.com/TheBreakingGoodProject/ELN-Kymberley-Scroggie/issues/12)
 
 [Experiment #13: Synthesis of methyl 2-(4-((4-chloro-2-fluorophenyl)(pyridin-3-yl)methyl)piperazin-1-yl)acetate (P4_A_009)](https://github.com/TheBreakingGoodProject/ELN-Kymberley-Scroggie/issues/13)
+
+### Series 2 - Aminothiazoles
 
 [Experiment #14: Synthesis of 2-bromo-1-(pyridin-2-yl)ethan-1-one](https://github.com/TheBreakingGoodProject/ELN-Kymberley-Scroggie/issues/14)
