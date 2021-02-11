@@ -34,6 +34,23 @@ Kymberley is a postdoctoral research assoicate at the University of Sydney, Sydn
 
 [Experiment #13: Synthesis of methyl 2-(4-((4-chloro-2-fluorophenyl)(pyridin-3-yl)methyl)piperazin-1-yl)acetate (P4_A_009)](https://github.com/TheBreakingGoodProject/ELN-Kymberley-Scroggie/issues/13)
 
+[Experiment #16: Synthesis of (4-chloro-2-fluorophenyl)(pyridin-3-yl)methanol](https://github.com/TheBreakingGoodProject/ELN-Kymberley-Scroggie/issues/16)
+
+[Experiment #18: Synthesis of 1-(4-caynophenyl)piperazine](https://github.com/TheBreakingGoodProject/ELN-Kymberley-Scroggie/issues/18)
+
+[Experiment #19: Synthesis of 1-(4-trifluoromethylphenyl)piperazine](https://github.com/TheBreakingGoodProject/ELN-Kymberley-Scroggie/issues/19)
+
+[Experiment #21: Synthesis of (4-chloro-2-fluorophenyl)(pyridin-3-yl)methanol](https://github.com/TheBreakingGoodProject/ELN-Kymberley-Scroggie/issues/21)
+
+
 ### Series 2 - Aminothiazoles
 
 [Experiment #14: Synthesis of 2-bromo-1-(pyridin-2-yl)ethan-1-one](https://github.com/TheBreakingGoodProject/ELN-Kymberley-Scroggie/issues/14)
+
+[Experiment #15: Synthesis of 2-bromo-1-(pyridin-2-yl)ethan-1-one](https://github.com/TheBreakingGoodProject/ELN-Kymberley-Scroggie/issues/15)
+
+[Experiment #17: Synthesis of 2-bromo-1-(pyridin-2-yl)ethan-1-one](https://github.com/TheBreakingGoodProject/ELN-Kymberley-Scroggie/issues/17)
+
+[Experiment #20: Synthesis of 2-bromo-1-phenylethan-1-one](https://github.com/TheBreakingGoodProject/ELN-Kymberley-Scroggie/issues/20)
+
+[Experiment #22: Synthesis of 2-bromo-1-(pyridin-3-yl)ethan-1-one](https://github.com/TheBreakingGoodProject/ELN-Kymberley-Scroggie/issues/22)
