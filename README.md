@@ -8,9 +8,9 @@ Kymberley is a postdoctoral research assoicate at the University of Sydney, Sydn
 
 ### Series 1 - Fenarimols
 
-[Experiment #1: Synthesis of 1-(4-caynophenyl)piperazine](https://github.com/TheBreakingGoodProject/ELN-Kymberley-Scroggie/issues/1)
+[Experiment #1: Synthesis of 1-(4-cyanophenyl)piperazine](https://github.com/TheBreakingGoodProject/ELN-Kymberley-Scroggie/issues/1)
 
-[Experiment #2: Synthesis of 1-(4-caynophenyl)piperazine](https://github.com/TheBreakingGoodProject/ELN-Kymberley-Scroggie/issues/2)
+[Experiment #2: Synthesis of 1-(4-cyanophenyl)piperazine](https://github.com/TheBreakingGoodProject/ELN-Kymberley-Scroggie/issues/2)
 
 [Experiment #3: Synthesis of 1-(4-trifluoromethylphenyl)piperazine](https://github.com/TheBreakingGoodProject/ELN-Kymberley-Scroggie/issues/3)
 
@@ -36,7 +36,7 @@ Kymberley is a postdoctoral research assoicate at the University of Sydney, Sydn
 
 [Experiment #16: Synthesis of (4-chloro-2-fluorophenyl)(pyridin-3-yl)methanol](https://github.com/TheBreakingGoodProject/ELN-Kymberley-Scroggie/issues/16)
 
-[Experiment #18: Synthesis of 1-(4-caynophenyl)piperazine](https://github.com/TheBreakingGoodProject/ELN-Kymberley-Scroggie/issues/18)
+[Experiment #18: Synthesis of 1-(4-cyanophenyl)piperazine](https://github.com/TheBreakingGoodProject/ELN-Kymberley-Scroggie/issues/18)
 
 [Experiment #19: Synthesis of 1-(4-trifluoromethylphenyl)piperazine](https://github.com/TheBreakingGoodProject/ELN-Kymberley-Scroggie/issues/19)
 
