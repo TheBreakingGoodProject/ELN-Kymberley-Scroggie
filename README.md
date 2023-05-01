@@ -41,6 +41,6 @@ and with labels that describe the status
 
 When experiments are complete the issue is "closed".
 
-All characterisation data is stored in here in the "Code" tab and is filed based on the experiment identifier.
+All raw characterisation data is stored in the file [Characterisation Data](https://github.com/TheBreakingGoodProject/ELN-Kymberley-Scroggie/tree/master/Characterisation%20Data) in the "Code" tab and is filed based on the experiment identifier.
 
 Unless otherwise stated, all content in this ELN is governed by a Creative Commons CC-BY-4.0 licence.
