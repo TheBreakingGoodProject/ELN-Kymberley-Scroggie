@@ -26,7 +26,7 @@ Experiments conducted for The Breaking Good Project are identified as follows:
 6. Underscore
 7. Two numbers which describe the repeat/batch number
 
-For example, 2020_BG_1J_002 describes the second attempt at the synthesis of molecule 1J for the core Breaking Good program ran in 2022.
+For example, 2022_BG_1J_002 describes the second attempt at the synthesis of molecule 1J for the core Breaking Good program ran in 2022.
 
 Issues are labelled with labels that describe the aim using the following:
 * __New reaction__ - the first attempt at a reaction
