@@ -20,7 +20,7 @@ For example, KRS_029_03 describes the third repeat/attempt at the synthesis of m
 Experiments conducted for The Breaking Good Project are identified as follows:
 1. Year of program
 2. Underscore
-3. Program the molecule is contributing to e.g. SSP (The University of Sydney's Special Studies program), BG (breaking good core program)
+3. Program the molecule is being synthesised for e.g. SSP (The University of Sydney's Special Studies program), BG (breaking good core program)
 4. Underscore
 5. One letter followed by a number - the main identifier of the molecule that is being synthesised
 6. Underscore
