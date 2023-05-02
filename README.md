@@ -6,7 +6,7 @@ Kymberley (@kym834) is a postdoctoral research associate at the University of Sy
 
 This ELN contains experiments conducted for [The Breaking Good Project](https://www.breakinggoodproject.com) - an international citizen science initiative that empowers members of the public to be active researchers in projects that will improve human health, and contributions to the [Open Source Mycetoma](https://github.com/OpenSourceMycetoma) - a open science project working to find a novel treatment to eumycetoma. More information on the projects and the contributions store in this ELN can be found in the [Wiki](https://github.com/TheBreakingGoodProject/ELN-Kymberley-Scroggie/wiki).
 
-The best way to find a relevant ELN entry is to head to the [Compound ID Master page](https://github.com/TheBreakingGoodProject/ELN-Kymberley-Scroggie/wiki/Compound-IDs) where you can view compounds, their identifiers, which project they belongs to and all the ELN entries for it. 
+The best way to find a relevant ELN entry is to head to the [Compound IDs page](https://github.com/TheBreakingGoodProject/ELN-Kymberley-Scroggie/wiki/Compound-IDs) where you can view compounds, their identifiers, which project they belongs to and all the ELN entries for it. 
 
 Experiments conducted for Open Source Mycetoma are identified as follows:
 1. First three characters are KRS (initials of the experimentalist)
