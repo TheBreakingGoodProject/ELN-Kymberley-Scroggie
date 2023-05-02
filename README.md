@@ -37,7 +37,7 @@ Issues are labelled with labels that describe the aim using the following:
 and with labels that describe the status
 * __Reaction in progress__ - an experiment that is currently running
 * __Purification__ - an experiment that has finished and is awaiting purification
-* __Characterisation__ - an experiment that is complete with product that has been purified and has been used for characterisation experiments
+* __Characterisation__ - an experiment that is finished with product that has been purified and has/will been used for characterisation experiments
 
 When experiments are complete the issue is "closed".
 
