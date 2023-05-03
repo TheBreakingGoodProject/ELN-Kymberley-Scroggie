@@ -2,11 +2,11 @@
 
 __Note: This ELN is not longer in use__
 
-Kymberley (@kym834) is a postdoctoral research associate at the University of Sydney, Sydney, Australia. She works within the [SCOPE](https://github.com/alintheopen/SCOPE) research group which is led by [Associate Professor Alice Motion](http://alicemotion.com/)(@alintheopen).
+Kymberley (@kym834) is a postdoctoral research associate at the University of Sydney, Sydney, Australia. She works within the [SCOPE](https://github.com/alintheopen/SCOPE) research group which is led by [Associate Professor Alice Motion](http://alicemotion.com/) (@alintheopen).
 
 This ELN contains experiments conducted for [The Breaking Good Project](https://www.breakinggoodproject.com) - an international citizen science initiative that empowers members of the public to be active researchers in projects that will improve human health, and contributions to the [Open Source Mycetoma](https://github.com/OpenSourceMycetoma) - a open science project working to find a novel treatment to eumycetoma. More information on the projects and the contributions store in this ELN can be found in the [Wiki](https://github.com/TheBreakingGoodProject/ELN-Kymberley-Scroggie/wiki).
 
-The best way to find a relevant ELN entry is to head to the [Compound IDs page](https://github.com/TheBreakingGoodProject/ELN-Kymberley-Scroggie/wiki/Compound-IDs) where you can view compounds, their identifiers, which project they belongs to and all the ELN entries for it. 
+The best way to find a relevant ELN entry is to head to the [Compound IDs page](https://github.com/TheBreakingGoodProject/ELN-Kymberley-Scroggie/wiki/Compound-IDs) where you can view compounds, their identifiers, which project they belongs to and all the ELN entries for it. Once you've identified a compounds you click the links to view the ELN entries or head over to the projects wiki page to find out more about the project the compound is relevant to.
 
 ---
 
@@ -32,16 +32,9 @@ For example, 2022_BG_1J_002 describes the second attempt at the synthesis of mol
 
 ---
 
-Issues are labelled with labels that describe the aim using the following:
-* __New reaction__ - the first attempt at a reaction
-* __Repeat__ - a repeat of a reaction already attempted/completed (the number of the repeat is described in the identify, see above).
-* __Reaction optimisation__ - an experiment which is aiming to optimise the previous attempt/s
-* __Upscale__ - an experiment where the amount of material has been increased from the first attempt
+On the main issues page, issues are sorted into _open_ and _closed_. _Open_ issues represent experiments that are planned or in progress, while _closed_ issues represent experiments that have been completed or abandoned. 
 
-and with labels that describe the status
-* __Reaction in progress__ - an experiment that is currently running
-* __Purification__ - an experiment that has finished and is awaiting purification
-* __Characterisation__ - an experiment that is finished with product that has been purified and has/will been used for characterisation experiments
+Issues are labelled with labels that describe the aim and status with descriptions of these labels contained in the [labels](https://github.com/TheBreakingGoodProject/ELN-Kymberley-Scroggie/labels) tab.
 
 When experiments are complete the issue is "closed".
 
