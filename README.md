@@ -9,6 +9,7 @@ This ELN contains experiments conducted for [The Breaking Good Project](https://
 The best way to find a relevant ELN entry is to head to the [Compound IDs page](https://github.com/TheBreakingGoodProject/ELN-Kymberley-Scroggie/wiki/Compound-IDs) where you can view compounds, their identifiers, which project they belongs to and all the ELN entries for it. Once you've identified a compounds you click the links to view the ELN entries or head over to the projects wiki page to find out more about the project the compound is relevant to.
 
 ---
+## Experimental Identifiers
 
 Experiments conducted for Open Source Mycetoma are identified as follows:
 1. First three characters are KRS (initials of the experimentalist)
@@ -31,6 +32,7 @@ Experiments conducted for The Breaking Good Project are identified as follows:
 For example, 2022_BG_1J_002 describes the second attempt at the synthesis of molecule 1J for the core Breaking Good program ran in 2022.
 
 ---
+## ELN Pages
 
 On the main issues page, issues are sorted into _open_ and _closed_. _Open_ issues represent experiments that are planned or in progress, while _closed_ issues represent experiments that have been completed or abandoned. 
 
@@ -39,6 +41,7 @@ Issues are labelled with labels that describe the aim and status with descriptio
 When experiments are complete the issue is "closed".
 
 ---
+## Data
 
 All raw and processed characterisation data is stored in the file [Characterisation Data](https://github.com/TheBreakingGoodProject/ELN-Kymberley-Scroggie/tree/master/Characterisation%20Data) above and is filed based on the experiment identifier.
 
