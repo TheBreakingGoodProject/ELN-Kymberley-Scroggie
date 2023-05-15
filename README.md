@@ -47,4 +47,4 @@ All raw and processed characterisation data is stored in the file [Characterisat
 
 ---
 
-Unless otherwise stated, all content in this ELN is governed by a Creative Commons CC-BY-4.0 licence.
+Unless otherwise stated, all content in this ELN is governed by a [Creative Commons CC-BY-4.0 licence](https://creativecommons.org/licenses/by/4.0/).
