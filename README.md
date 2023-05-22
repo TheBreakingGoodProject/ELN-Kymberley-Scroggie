@@ -43,7 +43,7 @@ When experiments are complete the issue is "closed".
 ---
 ## Data
 
-All raw and processed characterisation data for final compounds is stored in the file [Characterisation Data](https://github.com/TheBreakingGoodProject/ELN-Kymberley-Scroggie/tree/master/Characterisation%20Data) above and is filed based on the experiment identifier. All other raw data is store in the experiments ELN page in the Issues tab.
+All raw and processed characterisation data for final compounds is stored on the wiki page [Compound IDs](https://github.com/TheBreakingGoodProject/ELN-Kymberley-Scroggie/wiki/Compound-IDs). Any large data has been uploaded to the file [Characterisation Data](https://github.com/TheBreakingGoodProject/ELN-Kymberley-Scroggie/tree/master/Characterisation%20Data) above, is filed based on the experiment identifier and linked to the [Compound IDs](https://github.com/TheBreakingGoodProject/ELN-Kymberley-Scroggie/wiki/Compound-IDs) page. All other raw data is store in the experiments ELN page in the Issues tab.
 
 ---
 
